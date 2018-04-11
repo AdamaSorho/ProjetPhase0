@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Projet1 {
+public class Projet {
 	
 	private static Scanner keyb = new Scanner(System.in);
 	
