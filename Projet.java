@@ -49,7 +49,6 @@ public class Projet {
 				monChoix = keyb.nextLine();
 			}
 			
-			return monChoix;
-			
+			return monChoix;	
 		}
 }
